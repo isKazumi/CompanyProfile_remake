@@ -1,7 +1,5 @@
 # CompanyProfile_remake
 
-pasti uplode img hero gak muncul tapi di local bisa pak ,saya tidak ketemu solusinya
-
 ![Screenshot_20221213_082338](https://user-images.githubusercontent.com/58545851/207317369-5a73aacd-1e19-4e52-8272-aec42e5ad316.png)
 ![Screenshot_20221213_080529](https://user-images.githubusercontent.com/58545851/207317409-cd4c872a-8583-4f72-a7f8-7ead1267fbf5.png)
 ![Screenshot_20221213_080551](https://user-images.githubusercontent.com/58545851/207317433-27bd5f42-3392-41c1-88ee-c50a90b8ee88.png)
